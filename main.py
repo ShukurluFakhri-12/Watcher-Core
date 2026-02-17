@@ -5,7 +5,6 @@ import difflib
 import time
 import json
 import os
-
 # Professional UI Header
 def print_banner():
     print("-" * 50)
